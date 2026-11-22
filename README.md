@@ -7,3 +7,4 @@ You enter your height in cm and your weight in kg, click Calculate, and the app 
 
 A school assignment, extended by me with BMI categories and colors.
 Made with C# and Visual Studio.
+![Screenshot](screenshot.png)
